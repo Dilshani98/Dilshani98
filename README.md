@@ -78,9 +78,12 @@ Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-32361117
 
 
 <br/>
+
+<p align="center" ><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dilshani98&&count_private=true&no-bg-true&theme=darkhub" alt="Dilshani98"/></a></p>
+
 <br/>
 
-<a href="https://github.com/Dilshani98/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dilshani98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
