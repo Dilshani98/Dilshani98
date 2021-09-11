@@ -1,5 +1,5 @@
 
-<img alt="Gif" align="right" width="300px" height="auto" src="https://i.pinimg.com/originals/0d/50/c0/0d50c00e13258bb794f3e61b60df064d.gif" height="20px"/>
+<img alt="Gif" align="right" width="180px" height="auto" src="https://c.tenor.com/HtiyypdWeDEAAAAi/raf-rafs84.gif" height="20px"/>
 
 <h1 align="center"> Welcome to my profile!!</h1>
      
@@ -59,12 +59,15 @@ Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-32361117
 
 </br>
 </br>
+<span>
+     <img alt="Gif" align="center" width="100" height="auto" src="https://c.tenor.com/Mp3ojqqwUKIAAAAi/sadwalkaway-arthurfist.gif" height="20px"/>
+     <img alt="Gif" align="center" width="100" height="auto" src="https://c.tenor.com/Mp3ojqqwUKIAAAAi/sadwalkaway-arthurfist.gif" height="20px" padding="10"/>
 <p align="center">
     <a href="https://github.com/Dilshani98/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshani98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+     </span>
 
 
   <br/>
