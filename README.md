@@ -10,9 +10,9 @@
      
 <h> <i>I’m an undergratuate at University of Moratuwa</i> </P>
      
-📫 How to reach me via Email **dilshanisubodha@gmail.com**
+Reach me via Email **dilshanisubodha@gmail.com**
  
-📫 How to reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-323611172/**          
+Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-323611172/**          
 
 />
 
