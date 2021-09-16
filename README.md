@@ -8,7 +8,7 @@
 
 <div align ="center"
      
-<h> <i>I’m an undergratuate at University of Moratuwa</i> </P>
+<h> <i>I’m an undergraduate at University of Moratuwa</i> </P>
      
 Reach me via Email **dilshanisubodha@gmail.com**
  
