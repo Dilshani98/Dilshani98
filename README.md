@@ -61,7 +61,7 @@ Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-32361117
 </br>
 </br>
 <span>
-     <img alt="Gif" align="center" width="100" height="auto" src="https://c.tenor.com/Mp3ojqqwUKIAAAAi/sadwalkaway-arthurfist.gif" height="20px"/>
+<!--      <img alt="Gif" align="center" width="100" height="auto" src="https://c.tenor.com/Mp3ojqqwUKIAAAAi/sadwalkaway-arthurfist.gif" height="20px"/> -->
      <img alt="Gif" align="center" width="100" height="auto" src="https://c.tenor.com/Mp3ojqqwUKIAAAAi/sadwalkaway-arthurfist.gif" height="20px" padding="10"/>
 <p align="center">
     <a href="https://github.com/Dilshani98/github-readme-streak-stats">
@@ -85,8 +85,9 @@ Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-32361117
 <br/>
 
 
-##
 
+
+  <img alt="Gif" align="center" width="300" height="auto" src="https://monophy.com/media/pT4hk0FMDu5VT0oRQc/monophy.gif" height="20px" padding="10"/>
 
 
 <h1>Stay Safe!</h1>
