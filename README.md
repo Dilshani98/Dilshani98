@@ -1,5 +1,5 @@
 
-<img alt="Gif" align="right" width="180px" height="auto" src="https://media2.giphy.com/media/2Wg8MvTPT87YoFZKOJ/giphy.gif?cid=6c09b9524cp3gi383r72uh8zbkp7rku98p4lwptlpbvfj589&rid=giphy.gif&ct=s" height="20px"/>
+<img alt="Gif" align="right" width="300px" height="auto" src="https://media0.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy-preview.webp?cid=95b279448ivmjdo0o2kvmf2s5p2lgwt0h00y6rqppjygq498&rid=giphy-preview.webp&ct=s" height="20px"/>
 
 <h1 align="center"> Welcome to my profile!!</h1>
      
@@ -20,7 +20,7 @@ Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-32361117
 ##
 <br/>
 
-
+<br/>
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <kbd><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </kbd></a>
     <a href="https://reactjs.org/" target="_blank"><kbd> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></kbd> </a>
