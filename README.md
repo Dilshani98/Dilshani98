@@ -30,8 +30,10 @@ Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-32361117
     <a href="https://getbootstrap.com" target="_blank"> <kbd> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></kbd> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"><kbd>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </kbd></a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><kbd>  <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></kbd> </a>
+     <p align="center">
      <a href="https://firebase.google.com/" target="_blank"> <kbd> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </kbd></a> 
     <a href="https://postman.com" target="_blank"><kbd>  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></kbd></a>
+</p>
      </p>
      <p align="center">
      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><kbd> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="48" height="auto"/> </a></kbd>
