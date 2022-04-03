@@ -1,5 +1,4 @@
 
-<img alt="Gif" align="right" width="300px" height="auto" src="https://media0.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy-preview.webp?cid=95b279448ivmjdo0o2kvmf2s5p2lgwt0h00y6rqppjygq498&rid=giphy-preview.webp&ct=s" height="20px"/>
 
 <h1 align="center"> Welcome to my profile!!</h1>
      
