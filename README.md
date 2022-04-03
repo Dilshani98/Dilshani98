@@ -89,10 +89,8 @@ Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-32361117
 
 
 
-  <img alt="Gif" align="center" width="300" height="auto" src="https://monophy.com/media/pT4hk0FMDu5VT0oRQc/monophy.gif" height="20px" padding="10"/>
 
 
-<h1>Stay Safe!</h1>
 
 
 
