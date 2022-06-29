@@ -19,7 +19,6 @@ Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-32361117
 ##
 <br/>
 <br/>
-<br/>
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <kbd><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </kbd></a>
     <a href="https://reactjs.org/" target="_blank"><kbd> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></kbd> </a>
