@@ -1,15 +1,15 @@
 
 
-<h1 align="center"> Welcome to my profile!!</h1>
+<h1 align="center"> Hey! Welcome to my profile</h1>
      
 <br/>
 
 
 <div align ="center"
      
-<h> <i>I’m an undergraduate at University of Moratuwa</i> </P>
+<h> <i>Software Engineer | Building what matters</i> </P>
      
-Reach me via Email **dilshanisubodha@gmail.com**
+Reach me via Email **dilshanisena98@gmail.com**
  
 Reach me via Linkedin **https://www.linkedin.com/in/dilshani-senanayake-323611172/**          
 
